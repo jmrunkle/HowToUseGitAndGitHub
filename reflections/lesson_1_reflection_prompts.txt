@@ -27,7 +27,9 @@ docs does?
 Why do you think some version control systems, like Git, allow saving multiple
 files in one commit, while others, like Google Docs, treat each file separately?
 
-    Fill in your answer here
+    Many files logically go together and if you break them apart in commits, the
+    functionality of those files can break easily. As such it is much better to
+    allow the files to be commited together.
 
 How can you use the commands git log and git diff to view the history of files?
 
