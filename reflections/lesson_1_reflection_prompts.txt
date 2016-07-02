@@ -8,7 +8,11 @@ was introduced?
 How could having easy access to the entire history of a file make you a more
 efficient programmer in the long term?
 
-    Fill in your answer here
+    Frequently we make a change that we later decide was not how we wanted the
+    file to appear. Having the ability to get the old content is essential if
+    you don't want to do that work over again. It may also explain why the file
+    is the way it is today, particularly if the file is old and had several
+    authors along the way.
 
 What do you think are the pros and cons of manually choosing when to create a
 commit, like you do in Git, vs having versions automatically saved, like Google
